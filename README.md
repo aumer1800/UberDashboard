@@ -109,6 +109,7 @@ Identify important pickup and drop locations.
 Analyze completed, cancelled, and incomplete rides.
 Monitor customer and driver ratings.
 Present the results through an interactive dashboard.
+
 Conclusion
 
 The Uber Dashboard provides a simple and interactive way to understand ride performance and business activity. It combines booking, revenue, distance, location, vehicle, and rating information into one dashboard, making it easier to analyze overall Uber ride performance and identify important trends.
